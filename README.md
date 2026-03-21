@@ -203,5 +203,5 @@ Most data quality scripts are dataset-specific — you copy, paste, and modify t
 
 ## Author
 
-**[Your Name]**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [Portfolio](https://yourwebsite.com)
+**Sai Kiran Yadav**  
+[LinkedIn](https://www.linkedin.com/in/saikiranydv/)
